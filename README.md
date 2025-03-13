@@ -58,5 +58,5 @@ After training, the model prints accuracy scores and classification reports for 
 
 ## Author
 
-Your Name (GitHub: HrutikAdsare)
+Hrutik Adsare
 
