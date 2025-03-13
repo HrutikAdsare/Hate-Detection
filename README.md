@@ -55,9 +55,6 @@ The model is trained using:
 
 After training, the model prints accuracy scores and classification reports for both training and validation data.
 
-## License
-
-This project is open-source and available under the MIT License.
 
 ## Author
 
